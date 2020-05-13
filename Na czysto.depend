@@ -1,0 +1,101 @@
+# depslib dependency file v1.0
+1589367359 source:c:\users\krystian\desktop\programowanie\obiektowe\na czysto\ksiazkaadresowa.cpp
+	<iostream>
+	"KsiazkaAdresowa.h"
+	<fstream>
+	<sstream>
+	"windows.h"
+
+1589368188 source:c:\users\krystian\desktop\programowanie\obiektowe\na czysto\main.cpp
+	<iostream>
+	"KsiazkaAdresowa.h"
+	<iostream>
+	<fstream>
+	<windows.h>
+	<iostream>
+	<iomanip>
+	<math.h>
+	<conio.h>
+	<vector>
+	<string>
+	<algorithm>
+	<sstream>
+
+1588361094 source:c:\users\krystian\desktop\programowanie\obiektowe\na czysto\metodypomocnicze.cpp
+	"MetodyPomocnicze.h"
+	<sstream>
+
+1588862370 source:c:\users\krystian\desktop\programowanie\obiektowe\na czysto\plikzuzytkownikami.cpp
+	"PlikZUzytkownikami.h"
+
+1589367365 source:c:\users\krystian\desktop\programowanie\obiektowe\na czysto\uzytkownik.cpp
+	"Uzytkownik.h"
+
+1588260314 c:\users\krystian\desktop\programowanie\obiektowe\na czysto\uzytkownik.h
+	<iostream>
+
+1589367347 source:c:\users\krystian\desktop\programowanie\obiektowe\na czysto\uzytkownikmenager.cpp
+	"UzytkownikMenager.h"
+	<sstream>
+	<windows.h>
+
+1589367353 c:\users\krystian\desktop\programowanie\obiektowe\na czysto\uzytkownikmenager.h
+	"Uzytkownik.h"
+	"PlikZUzytkownikami.h"
+	"MetodyPomocnicze.h"
+	<vector>
+
+1589367347 c:\users\krystian\desktop\programowanie\obiektowe\na czysto\plikzuzytkownikami.h
+	"Uzytkownik.h"
+	<fstream>
+	<vector>
+
+1588751740 c:\users\krystian\desktop\programowanie\obiektowe\na czysto\metodypomocnicze.h
+	<iostream>
+
+1589367347 c:\users\krystian\desktop\programowanie\obiektowe\na czysto\ksiazkaadresowa.h
+	<iostream>
+	<vector>
+	"Uzytkownik.h"
+	"UzytkownikMenager.h"
+	"AdresatMenager.h"
+
+1589368038 source:c:\users\krystian\desktop\programowanie\obiektowe\na czysto\adresatmenager.cpp
+	"AdresatMenager.h"
+	<iostream>
+	<vector>
+
+1589367347 c:\users\krystian\desktop\programowanie\obiektowe\na czysto\adresatmenager.h
+	<iostream>
+	<vector>
+	"UzytkownikMenager.h"
+	"PlikZUzytkownikami.h"
+	"PlikZAdresatami.h"
+	"Adresat.h"
+	<iostream>
+
+1589367347 source:c:\users\krystian\desktop\programowanie\obiektowe\na czysto\adresat.cpp
+	"Uzytkownik.h"
+
+1588973959 c:\users\krystian\desktop\programowanie\obiektowe\na czysto\adresat.h
+	<iostream>
+
+1589367347 c:\users\krystian\desktop\programowanie\obiektowe\na czysto\plikzadresatami.h
+	"Adresat.h"
+	<fstream>
+	<vector>
+
+1589367347 source:c:\users\krystian\desktop\programowanie\obiektowe\na czysto\plikzadresatami.cpp
+	"PlikZAdresatami.h"
+	<iostream>
+	<fstream>
+	<windows.h>
+	<iostream>
+	<iomanip>
+	<math.h>
+	<conio.h>
+	<vector>
+	<string>
+	<algorithm>
+	<sstream>
+
